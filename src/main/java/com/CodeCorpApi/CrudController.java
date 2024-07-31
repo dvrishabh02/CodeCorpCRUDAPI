@@ -48,6 +48,7 @@ public class CrudController {
 			if(movieService.findById(id).isPresent()) {
 				return movieService.findById(id).get();
 			}
+			System.out.println("Movie with given id "+id+" does not exist");
 			return null;
 		}
 		
