@@ -1,6 +1,5 @@
-com/CodeCorpApi/MovieService.class
-com/CodeCorpApi/MovieRepository.class
-com/CodeCorpApi/Movie.class
-com/CodeCorpApi/Employee.class
+com/CodeCorpApi/controllers/CrudController.class
 com/CodeCorpApi/CodeCorpApiApplication.class
-com/CodeCorpApi/CrudController.class
+com/CodeCorpApi/Service/MovieService.class
+com/CodeCorpApi/Models/Movie.class
+com/CodeCorpApi/Repos/MovieRepository.class
