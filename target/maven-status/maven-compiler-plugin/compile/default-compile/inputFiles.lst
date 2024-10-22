@@ -1,5 +1,7 @@
-/Users/rishabh/Documents/myProjects/CodeCorpCRUDAPI/src/main/java/com/CodeCorpApi/CodeCorpApiApplication.java
-/Users/rishabh/Documents/myProjects/CodeCorpCRUDAPI/src/main/java/com/CodeCorpApi/Models/Movie.java
-/Users/rishabh/Documents/myProjects/CodeCorpCRUDAPI/src/main/java/com/CodeCorpApi/Repos/MovieRepository.java
-/Users/rishabh/Documents/myProjects/CodeCorpCRUDAPI/src/main/java/com/CodeCorpApi/Service/MovieService.java
-/Users/rishabh/Documents/myProjects/CodeCorpCRUDAPI/src/main/java/com/CodeCorpApi/controllers/CrudController.java
+/Users/rishabh/Documents/GitHub/CodeCorpCRUDAPI/src/main/java/com/CodeCorpApi/CodeCorpApiApplication.java
+/Users/rishabh/Documents/GitHub/CodeCorpCRUDAPI/src/main/java/com/CodeCorpApi/Models/Movie.java
+/Users/rishabh/Documents/GitHub/CodeCorpCRUDAPI/src/main/java/com/CodeCorpApi/Repos/MovieRepository.java
+/Users/rishabh/Documents/GitHub/CodeCorpCRUDAPI/src/main/java/com/CodeCorpApi/Service/MovieService.java
+/Users/rishabh/Documents/GitHub/CodeCorpCRUDAPI/src/main/java/com/CodeCorpApi/configs/SecurityConfig.java
+/Users/rishabh/Documents/GitHub/CodeCorpCRUDAPI/src/main/java/com/CodeCorpApi/controllers/CrudController.java
+/Users/rishabh/Documents/GitHub/CodeCorpCRUDAPI/src/main/java/com/CodeCorpApi/controllers/UserController.java

@@ -1,5 +1,7 @@
 com/CodeCorpApi/controllers/CrudController.class
-com/CodeCorpApi/CodeCorpApiApplication.class
 com/CodeCorpApi/Service/MovieService.class
+com/CodeCorpApi/configs/SecurityConfig.class
+com/CodeCorpApi/controllers/UserController.class
+com/CodeCorpApi/CodeCorpApiApplication.class
 com/CodeCorpApi/Models/Movie.class
 com/CodeCorpApi/Repos/MovieRepository.class
